@@ -1,4 +1,3 @@
-print("Enter the three numbers");
 n1=input();
 n2=input();
 n3=input();
