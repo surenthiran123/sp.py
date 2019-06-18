@@ -1,4 +1,4 @@
-n1,n2,n3=map(int,input().split())
-if(n1>1):
-  i=int((n1/2)*(2*n2 + (n1-1)*n2))
-  print(i)
+a,b,c=map(int,input().split())
+y=(a/2)
+z=y*(2*b+(a-1)*c)
+print(int(z))
